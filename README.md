@@ -18,3 +18,5 @@
 
 >[移动版mobile-java-armeabi_v7a.apk](https://gh-proxy.com/github.com/cyh92/Release/blob/main/apk/release/mobile-java-armeabi_v7a.apk)
 
+>[直播电视频道](https://gh-proxy.com/github.com/cyh92/Release/blob/main/apk/release/mytv-android-tv-2.2.7-all-sdk21.apk)
+
