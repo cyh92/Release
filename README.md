@@ -12,9 +12,9 @@
 > release = 正式版
 # 下载
 
->[电视版(kitkat)leanback.apk](https://raw.gitcode.com/cyh92/Release/raw/main/apk/kitkat/leanback.apk)
+>[电视版(安卓4.x)leanback.apk](https://raw.gitcode.com/cyh92/Release/raw/main/apk/kitkat/leanback.apk)
 
->[电视版leanback-java-armeabi_v7a.apk](https://raw.gitcode.com/cyh92/Release/raw/main/apk/release/leanback-java-armeabi_v7a.apk)
+>[电视版(安卓5及以上)leanback-java-armeabi_v7a.apk](https://raw.gitcode.com/cyh92/Release/raw/main/apk/release/leanback-java-armeabi_v7a.apk)
 
 >[移动版mobile-java-armeabi_v7a.apk](https://raw.gitcode.com/cyh92/Release/raw/main/apk/release/mobile-java-armeabi_v7a.apk)
 
