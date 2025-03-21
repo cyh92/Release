@@ -20,3 +20,5 @@
 
 >[直播电视频道](https://raw.gitcode.com/cyh92/Release/raw/main/apk/release/mytv-android-tv-2.2.7-all-sdk21.apk)
 
+>[小说免费阅读app](https://raw.gitcode.com/cyh92/Release/raw/main/apk/release/legado_app_3.25.031916.apk)
+
