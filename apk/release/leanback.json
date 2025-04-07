@@ -1,5 +1,5 @@
 {
-  "code": 351,
-  "name": "3.5.1",
+  "code": 352,
+  "name": "3.5.2",
   "desc": "* [App]\n* Support avif\n* [Media3]\n* Optimize smb://"
 }
