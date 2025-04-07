@@ -1,5 +1,5 @@
 {
-  "code": 350,
-  "name": "3.5.0",
-  "desc": "* [App]\n* Adjust sniffer rule\n* [Media3]\n* Bypass http error"
+  "code": 351,
+  "name": "3.5.1",
+  "desc": "* [App]\n* Support avif\n* [Media3]\n* Optimize smb://"
 }
