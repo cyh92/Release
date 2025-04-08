@@ -1,5 +1,5 @@
 {
-  "code": 353,
-  "name": "3.5.3",
-  "desc": "* [App]\n* Fix crash"
+  "code": 354,
+  "name": "3.5.4",
+  "desc": "* [App]\n* Fix gif\n* Fix smb path"
 }
