@@ -1,5 +1,5 @@
 {
-  "code": 359,
-  "name": "3.5.9",
-  "desc": "* [App]\n* Fix bug"
+  "code": 360,
+  "name": "3.6.0",
+  "desc": "* [Media3]\n* Fix rrmj h265 play"
 }
