@@ -1,5 +1,5 @@
 {
-  "code": 360,
-  "name": "3.6.0",
-  "desc": "* [Media3]\n* Fix rrmj h265 play"
+  "code": 361,
+  "name": "3.6.1",
+  "desc": "* [App]\n* Optimize jar proxy"
 }
