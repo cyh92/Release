@@ -284,7 +284,6 @@
         // 检测是否为微信内置浏览器
         function isWeChatBrowser() {
             var ua = navigator.userAgent.toLowerCase();
-            console.log(ua);
             // 仅当包含micromessenger时才识别为微信浏览器
             return ua.indexOf('micromessenger') !== -1;
         }
